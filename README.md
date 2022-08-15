@@ -1,4 +1,7 @@
-# Thiis a simple To Do list 
+# This a simple To Do list 
 
-Simple To Do list 
+### Technology 
+- HTML
+- CSS
+- JavaScript
 
